@@ -1,0 +1,27 @@
+.our-games-banner {
+  background-image: linear-gradient(-220deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 50%),url("../../images/FPS_noodle_bar.png");
+  background-position: center;
+  background-size: cover;
+  padding: 210px 40px;
+  margin-bottom: 48px;
+}
+
+.our-games-banner h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 56px;
+  color: white;
+}
+
+.our-games-banner p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 24px;
+  color: white;
+}
+
+#fracture_black {
+  width: 360px;
+}

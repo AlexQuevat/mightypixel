@@ -1,0 +1,48 @@
+#footer a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 32px;
+  color: white;
+}
+
+#footer a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 32px;
+  color: white;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  opacity: 0.8;
+  transition: 0.5s;
+}
+
+#footer li {
+  list-style: none;
+  display: inline;
+}
+
+#footer ul {
+  padding: 0;
+}
+
+#footer H1, p {
+  color: white;
+}
+
+#end-p {
+  padding-bottom: 36px;
+}
+
+#link-social {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 32px;
+  color: white;
+  padding: 0 10px;
+  opacity: 0.5;
+}

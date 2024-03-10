@@ -1,0 +1,77 @@
+.card {
+  display: flex;
+  align-items: flex-start;
+  flex-grow: 1;
+  margin: 1px;
+}
+
+#card1 {
+  flex-basis: 350px;
+  background-image: url("../../images/splashart.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 0 260px 260px 0;
+}
+
+/*#card1 img {
+  width: 64px;
+  padding: 160px 20px;
+}*/
+
+#card2 {
+  background-image: url("../../images/focus_fight.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 260px 260px 0;
+}
+
+#card3 {
+  background-image: url("../../images/rich_city.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 260px 260px 0;
+}
+
+#card4 {
+  flex-basis: 350px;
+  background-image: url("../../images/food_truck.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 260px 260px 0;
+}
+
+#card5 {
+  flex-basis: 350px;
+  background-image: url("../../images/blade.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 240px 240px 0;
+}
+
+#card6 {
+  flex-basis: 350px;
+  background-image: url("../../images/ship.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 240px 240px 0;
+}
+
+#card7 {
+  flex-basis: 350px;
+  background-image: url("../../images/metro.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 240px 240px 0;
+}
+
+#card8 {
+  flex-basis: 350px;
+  background-image: url("../../images/our-games.png");
+  background-position: center;
+  background-size: cover;
+  padding: 0 240px 240px 0;
+}
+
+.card img {
+  width: 110px;
+}

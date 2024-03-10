@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("components/header.css");
+@import url("components/burger.css");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/card-grid.css");
+@import url("components/footer.css");
+@import url("components/end-page.css");
+@import url("components/our-games-banner.css");
+@import url("components/about-banner.css");
+@import url("components/card-team.css");
+@import url("components/contact-banner.css");
+
+
+body {
+  margin: 0;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 24px;
+  color: #6c6c6c;
+}

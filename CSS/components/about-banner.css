@@ -1,0 +1,28 @@
+.about-banner {
+  background-image: linear-gradient(-220deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.4) 50%),url("../../images/astronaut.png");
+  background-position: center;
+  background-size: cover;
+  padding: 210px 40px;
+  margin-bottom: 12px;
+}
+
+.about-banner h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 56px;
+  color: white;
+}
+
+.about-banner p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 24px;
+  color: white;
+}
+
+#MPS_black {
+  width: 320px;
+}
+

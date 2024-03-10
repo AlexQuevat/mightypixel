@@ -1,0 +1,52 @@
+.card-team {
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  flex-basis: 280px;
+  flex-grow: 1;
+  margin: 4px;
+  border-radius: 8px;
+}
+
+.card-team > img {
+  height: 320px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-team h2 {
+  ont-family: roboto;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  padding: 4px 8px;
+}
+
+.card-team h3 {
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: 200;
+  margin: 0;
+  padding: 4px 8px;
+}
+
+.card-team p {
+  font-size: 14px;
+  margin: 0;
+  padding: 8px;
+}
+
+.card-team .team-infos {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+.team-infos {
+  position: absolute;
+  /*right: 16px;
+  top: -20px;*/
+}
+
